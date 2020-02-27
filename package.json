@@ -1,0 +1,15 @@
+{
+  "name": "date-validator-npm",
+  "version": "1.0.0",
+  "description": "This npm validates dates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date",
+    "validator"
+  ],
+  "author": "Muzaffar Ahmad",
+  "license": "ISC"
+}
