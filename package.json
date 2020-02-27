@@ -1,6 +1,6 @@
 {
   "name": "date-validator-npm",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This npm validates dates",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,8 @@
   ],
   "author": "Muzaffar Ahmad",
   "license": "ISC",
-  "git": "https://github.com/maahibhat88/date-validator-npm"
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/maahibhat88/date-validator-npm"
+  }
 }
