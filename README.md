@@ -1,3 +1,19 @@
-This package accepts from date and to date in "DD/MM/YYYY" format and
-then compares the date is from date greater than to date.
-If it is, it returns True else False
+#date-validator-npm
+
+Usage:
+```
+npm i date-validator-npm --save
+var dateValidatorNpm = require("date-validator-npm");
+dateValidatorNpm.isDateValid(fromDate,toDate);
+```
+
+This package accepts From Date and To Date in **"DD/MM/YYYY"** format
+
+
+Then it compare the dates to find difference.
+
+
+If **From Date > To Date** returns **True**
+
+Else returns **False**
+

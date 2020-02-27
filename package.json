@@ -11,5 +11,6 @@
     "validator"
   ],
   "author": "Muzaffar Ahmad",
-  "license": "ISC"
+  "license": "ISC",
+  "git": "https://github.com/maahibhat88/date-validator-npm"
 }
